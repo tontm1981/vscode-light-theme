@@ -4,11 +4,27 @@
   "description": "An effort to bring some comfort to your eyes",
   "version": "0.0.1",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tontm1981/vscode-light-theme"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Themes",
+    "Light Theme",
+    "Comfort",
+    "Comfortable Theme",
+    "Eye",
+    "Friendly Theme",
+    "Eye Friendly Theme",
+    "Sand",
+    "Sepia"
   ],
   "contributes": {
     "themes": [
